@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    background-color: #d8da3d;
+}
+
+header {
+    padding: 1em;
+    text-align: center;
+    color: purple;
+    font-family: Liberation Sans;
+}
+
+h3 img {
+    vertical-align: super;
+}
+
+.pais {
+    position: relative;
+    background-color: white;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-weight: bolder;
+    margin-bottom: 5%;
+}
+
+.suiza {
+    border: 1px solid red;
+    color: red;
+    left: 15%;
+    width: 45%;
+}
+
+.suiza h3 {
+    text-align: right;
+}
+
+p {
+    text-align: start;
+    text-indent: 10px;
+}
+
+.foto_suiza {
+    float: left;
+    padding-right: 10px;
+    width: 50%;
+}
+
+.grecia h3 {
+    text-align: left;
+}
+
+.grecia {
+    border: 1px solid blue;
+    color: blue;
+    left: 33%;
+    width: 60%;
+}
+
+
