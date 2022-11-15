@@ -34,14 +34,11 @@ h3 img {
     text-align: right;
 }
 
-p {
-    text-align: start;
-    text-indent: 10px;
-}
 
 .foto_suiza {
     float: left;
     padding-right: 10px;
+    height: 50%;
     width: 50%;
 }
 
@@ -52,8 +49,30 @@ p {
 .grecia {
     border: 1px solid blue;
     color: blue;
-    left: 33%;
-    width: 45%;
+    left: 30%;
+    width: 55%;
 }
 
+
+.img_grecia {
+    float: right;
+    padding-left: 10px;
+}
+
+.noruega {
+    background-color: blue;
+    color: white;
+    width: 45%;
+    border: 1px solid red;
+    left: 15%;
+}
+
+.noruega h3 {
+    text-align: center;
+}
+
+.img_noruega {
+    position: relative;
+    left: 35%;
+}
 
